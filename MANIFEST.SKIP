@@ -4,7 +4,7 @@
 \.svn
 \.git
 ,v$
- 
+
 # Makemaker/Build.PL generated files and dirs.
 ^MANIFEST\.
 ^Makefile$
@@ -24,7 +24,7 @@ COVER.SKIP
 CPAN.SKIP
 t/000_standard__*
 Debian_CPANTS.txt
- 
+
 # Temp, old, emacs, vim, backup files.
 ~$
 \.old$
@@ -34,9 +34,9 @@ Debian_CPANTS.txt
 ^#.*#$
 ^\.#
 .shipit
- 
+
 # Local files, not to be included
 ^scratch$
 ^core$
 ^var$
- 
+

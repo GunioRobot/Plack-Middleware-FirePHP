@@ -17,10 +17,10 @@ my $app = sub {
     $fire_php->start_group('Propably emtpy:');
     $fire_php->dismiss_group;
 
-    return [ 
-        200, 
+    return [
+        200,
         [ 'Content-Type' => 'text/html' ],
-        [ 'Hello World' ] 
+        [ 'Hello World' ]
     ];
 };
 
